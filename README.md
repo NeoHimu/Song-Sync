@@ -3,4 +3,4 @@ This project is intended to check if a song is played at mutiple mobile devices 
 
 
 # Screenshot of the app
-<img src="https://github.com/NeoHimu/Music-Player-for-Dance-Performance-Practice/blob/master/screen1.jpeg" width="200">
+<img src="Song_Sync_PoC.png" width="200">
